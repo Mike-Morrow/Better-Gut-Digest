@@ -1,6 +1,6 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "Resources"
+description = "Welcome to the Resources and Posts section of Better Gut Digest"
 images = ["cover.png"]
 
 # mainSections
@@ -21,8 +21,8 @@ mainSections = ["docs"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/prologue/introduction/"
-  navBarButtonText = "Get started"
+  navBarButtonUrl = "/resources/"
+  navBarButtonText = "Resources"
 
   # FlexSearch
   flexSearch = true # true (default) or false
@@ -44,7 +44,7 @@ mainSections = ["docs"]
   bootstrapJavascript = false # false (default) or true
 
   # Nav
-  sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["resources"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false
