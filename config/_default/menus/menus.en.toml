@@ -29,14 +29,14 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/guides/example-guide/"
+  name = "Resources"
+  url = "/resources/guides/example-guide/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Posts"
+  url = "/posts/"
   weight = 30
 
 # [[social]]
