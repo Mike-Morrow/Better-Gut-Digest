@@ -7,9 +7,7 @@
   NPM_VERSION = "10.2.4"
   HUGO_VERSION = "0.125.1"
 
-[build]
-  publish = "public"
-  command = "hugo --gc --minify"
+
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
